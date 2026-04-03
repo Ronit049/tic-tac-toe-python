@@ -92,10 +92,12 @@ python tic_tac_toe.py
 
 ## 📸 Screenshot
 
-*Add your project screenshot here*
+
 
 ```
-![Game Screenshot](assets/screenshot.pn)
+![Game Screenshot](assets/tictactoeSS1.png)
+![Game Screenshot](assets/tictactoeSS2.png)
+![Game Screenshot](assets/tictactoeSS3.png)
 ```
 
 ---
